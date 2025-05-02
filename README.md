@@ -46,10 +46,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
 </p>
-<svg width="200" height="200">
-    <circle cx="50" cy="50" r="10" fill="blue">
-        <animate attributeName="cx" from="50" to="150" dur="2s" repeatCount="indefinite"/>
-    </circle>
-</svg>
-<img src="your-animation.svg" />
 
