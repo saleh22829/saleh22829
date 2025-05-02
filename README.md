@@ -46,4 +46,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
 </p>
+const axios = require('axios');
+
+const username = 'YOUR_GITHUB_USERNAME';
+const url = `https://api.github.com/users/${username}/events`;
+
+axios.get(url)
+    .then(response => {
+        console.log(response.data);
+    })
+    .catch(error => {
+        console.error('Error fetching GitHub activity:', error);
+    });
 
