@@ -40,8 +40,3 @@
 <img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kp3nLMx_1_RP_wf89u1IklcqGd14TtFljQ&s"  />
 
 ###
-<h1 align="center">Welcome to my GitHub!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
-</p>
