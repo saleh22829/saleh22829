@@ -46,15 +46,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
 </p>
-<h1 align="center">Welcome to my GitHub!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
