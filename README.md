@@ -46,3 +46,22 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
 </p>
+<h1 align="center">Welcome to my GitHub!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" alt="Robot" width="200" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
